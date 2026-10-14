@@ -1,1 +1,1 @@
-[website-10](https://megaskumbria.io/website-10/website.html)
+[website-10](https://megaskumbria.github.io/website-10/)
